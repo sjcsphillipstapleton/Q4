@@ -1,0 +1,132 @@
+body, html {
+    background-color: #f6f6f6;
+}
+
+#painting {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+.right{
+	float: right;
+}
+
+.red {
+    background-color: red;   
+}
+.blue {
+    background-color: blue; 
+}
+.yellow {
+    background-color: yellow;   
+}
+.black {
+    background-color: black;   
+}
+
+.green	{
+	background-color: green;
+}
+
+#box1	{
+	width: 290px;
+	height: 40px;
+}
+
+#box2	{
+	width: 100px;
+	height: 40px;
+}
+
+#box3	{
+	width: 240px;
+	height: 95px;
+}
+
+#box4	{
+	width: 240px;
+	height: 95px;
+}
+
+#box5	{
+	width: 150px;
+	height: 200px;
+}
+
+#box6	{
+	width: 150px;
+	height: 140px;
+}
+
+#box7	{
+	width: 240px;
+	height: 90px;
+}
+
+#box8	{
+	width: 240px;
+	height: 40px;
+}
+
+#row1	{
+	width: 400px;
+	height: 40px;
+}
+
+#row2	{
+	width: 400px;
+	height: 200px;
+}
+
+#row3	{
+	width: 400px;
+	height: 140px;
+}
+
+#vertical1	{
+	width: 10px;
+	height: 40px;
+}
+
+#vertical2	{
+	width: 240px;
+	height: 10px;
+}
+
+#vertical3	{
+	width: 10px;
+	height: 140px;
+}
+
+#vertical4	{
+	width: 10px;
+	height: 200px;
+}
+#horizontal1	{
+	width: 400px;
+	height: 10px;
+}
+
+#horizontal2	{
+	width: 400px;
+	height: 10px;
+}
+#horizontal3	{
+	width: 240px;
+	height: 10px;
+}
+
+#rightcollum	{
+	width: 240px;
+	height: 200px;
+}
+
+#leftcollum	{
+	width: 240px;
+	height: 150px;
+}
