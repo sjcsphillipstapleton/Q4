@@ -1,0 +1,53 @@
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+div {
+	margin: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 24px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 30px;
+
+}
+.tt1 {
+	flex:1;
+	border: black solid 2px;
+}
+
+.tt2 {
+	flex:2;
+	border-top: black solid 2px;
+	border-bottom: black solid 2px;
+}
+
+.tt3 {
+	flex:1;
+	border: black solid 2px;
+}
+
+header {
+	text-align: center;
+	font-size: 24px;
+	border: black solid 2px;
+	margin-bottom: 0px;
+	padding: 30px;
+}
+
+footer {
+	text-align: center;
+	font-size: 24px;
+	border: black solid 2px;
+	margin-top: 0px;
+	padding: 30px;
+}

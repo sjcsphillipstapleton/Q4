@@ -1,0 +1,120 @@
+.wrapper {
+	width: 95%;
+	margin: 0 auto;
+	background-color: blue;
+
+}
+
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #522219;
+}
+
+#leftcollum {
+	float: left;
+	width: 50%;
+	background-color: white;
+	margin: 10px;
+}
+
+#rightcollum {
+	float: right;
+	width: 45%;
+	background-color: white;
+	margin: 10px;
+}
+
+body {
+	background-color: grey;
+}
+
+h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 24px;
+}
+
+header {
+	width: 100%;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.cleared {
+	display: flow-root;
+}
+
+.flex-container {
+	display: flex;
+	background-color: yellow;
+	flex-direction: row;
+	margin-top: 20px;
+	margin: 10px;
+	margin-bottom: 20px;
+}
+
+.flex-container > div {
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
+}
+
+.smaller {
+	width: 98%;
+}
+
+.lastp {
+		background-color: white;
+		width: 80%;
+		margin: 0 auto;
+		margin-bottom: 20px;
+}
+
+footer {
+	text-align: center;
+	background-color: black;
+}
+
+.pixel {
+	font-size: 12px;
+}
+
+.tt1 {
+	flex:1;
+	order:2;
+}
+
+.tt2 {
+	flex:1;
+	order: 4;
+}
+
+.tt3 {
+	flex:1;
+	order: 1;
+}
+
+.tt4 {
+	flex:2;
+	order: 3;
+}
+
+.floatl {
+	float: left;
+}
+
+.floatr {
+	float: right;
+}
+
+
+.imgsize {
+	width: 250px;
+}

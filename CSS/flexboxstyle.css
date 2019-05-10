@@ -1,0 +1,53 @@
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+h1	{
+	text-align: center;
+}
+
+#leftcollum {
+	float: left;
+	width: 50%;
+	background-color: blue;
+}
+
+#rightcollum {
+	float: right;
+	width: 45%;
+	background-color: red;
+}
+
+.cleared {
+	display: flow-root;
+}
+
+.flex-container {
+	display: flex;
+	background-color: green;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 20px;
+}
+
+.flex-container > div {
+	background-color: purple;
+	padding: 10px;
+	margin: 10px;
+}
+
+.floatl {
+	float: left;
+}
+
+img {
+	border: 5px;
+	width: 175px;
+	height: 175px;
+	border-color: red;
+	border-style: dashed;
+	padding: 5px;
+	margin: 10px;
+}

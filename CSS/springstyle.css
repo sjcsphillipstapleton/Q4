@@ -1,0 +1,52 @@
+.bphoto {
+	background-image: url(../images/bloom.jpg);
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	height: 100vh;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+
+}
+.bphoto h1{
+	font-size: 60px;
+	color: #0B51D5;
+	margin-bottom: 5px;
+	background-color: rgba(200,161,250,.8);
+	border-radius: 10px;
+	border: black 1px solid;
+	padding: 5px;
+}
+.button {
+	text-decoration: none;
+	font-size: 45px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+	color:  #0B51D5; 
+}
+a:hover {
+	color: white;
+	background-color:black;
+}
+#leftcollum {
+	float: left;
+	width: 48%;
+	background-color: #B347F1;
+}
+
+#rightcollum {
+	float: right;
+	width: 48%;
+	background-color:#E447F1;
+}
+
+.cleared {
+	display: flow-root;
+}
+
+.center {
+	text-align: center;
+}

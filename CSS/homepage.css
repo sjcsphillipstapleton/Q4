@@ -1,0 +1,155 @@
+.bphoto {
+	background-image: url();
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+
+}
+.bphoto h1{
+	font-size: 60px;
+	color: #0B51D5;
+	background-color: #A1DAFA;
+	border: black 1px solid;
+}
+.button {
+	text-decoration: none;
+	font-size: 45px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+	color:  #0B51D5; 
+}
+.a a:hover {
+	color: white;
+	background-color:black;
+}
+
+body {
+	background-color: #C1FE7F;
+}
+
+.smaller {
+	width: 100%;
+}
+
+footer {
+	text-align: center;
+}
+
+a:link	{
+	color:#FFFFFF;
+}
+
+a:visited	{
+	color:#FFFFFF;
+}
+
+a:hover	{
+	color:#31E429;
+}
+
+a:active	{
+	color:#292FE4;
+}
+
+a {
+	display: block;
+	text-align: center;
+	border:2px black solid;
+	padding: 5px;
+	margin:5px;
+	background-color: #A829E4;
+	border-radius: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+div {
+	margin: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 24px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 30px;
+	font-family: Brush Script Std, cursive;
+
+}
+.tt1 {
+	flex:1;
+	border: black solid 2px;
+}
+
+.tt2 {
+	flex:2;
+	border-top: black solid 2px;
+	border-bottom: black solid 2px;
+}
+
+.tt3 {
+	flex:1;
+	border: black solid 2px;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 0px;
+
+}
+
+footer {
+	text-align: center;
+	font-size: 24px;
+	border: black solid 2px;
+	margin-top: 0px;
+	padding: 30px;
+}
+
+.center {
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+}
+
+li {
+	font-family: Brush Script Std, cursive;
+	font-size: 22px;
+}
+
+img {
+	width:100%;
+	align-items: center;
+}
+
+.mini {
+	width:33%;
+}
+
+.right {
+	float:right;
+	flex-direction: flex-end;
+}
+
+.clear {
+	display: flow-root
+}

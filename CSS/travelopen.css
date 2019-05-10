@@ -1,0 +1,45 @@
+.bphoto {
+	background-image: url(../images/airplane2.gif);
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+
+}
+.bphoto h1{
+	font-size: 60px;
+	color: #0B51D5;
+	margin-bottom: 5px;
+	background-color: #A1DAFA;
+	border-radius: 10px;
+	border: black 1px solid;
+	padding: 5px;
+}
+.button {
+	text-decoration: none;
+	font-size: 45px;
+	border: black 1px solid;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+	color:  #0B51D5; 
+}
+a:hover {
+	color: white;
+	background-color:black;
+}
+
+body {
+	background-color: #0025BB;
+}
+
+.smaller {
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	border-radius: 100px;
+}
