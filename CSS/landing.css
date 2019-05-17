@@ -1,0 +1,34 @@
+.bphoto {
+	background-image: url(../images/ansel-portrait.jpg);
+	display: flex;
+	flex-direction: column;
+	background-size: cover;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	width:100%;
+	height: 100vh;
+}
+.bphoto h1{
+	color: #ec7e38;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 30px;
+}
+.button {
+	text-decoration: none;
+	font-size: 16px;
+	padding: 10px;
+	background-color: #ec7e38;
+	border-radius: 5px;
+	color:  white;
+}
+
+h2 {
+	color: #ec7e38;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom:0px;
+	font-size: 16px;
+}
